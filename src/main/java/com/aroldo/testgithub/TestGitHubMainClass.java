@@ -16,6 +16,7 @@ public class TestGitHubMainClass {
      */
     public static void main(String[] args) {
         System.out.println("Primera versión, creada en Dell Personal");
+        System.out.println("... y ahora modificada en Dell de Claro");
     }
     
 }
